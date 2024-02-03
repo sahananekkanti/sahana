@@ -1,0 +1,42 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Sahana's Gallery"
+theme = "gallery"
+copyright = "© Sahana Nekkanti"
+disableKinds = ["taxonomy", "term"]
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+timeZone = "Asia/Kolkata"
+
+
+[params]
+  title = "Sahana's Gallery"
+  description = "Find my aesthetic pics!"
+  defaultTheme = "dark"
+
+[author]
+  name = "Sahana Nekkanti"
+
+[outputs]
+  page = ["HTML"]
+  home = ["HTML", "RSS"]
+  section = ["HTML"]
+
+[imaging]
+  resampleFilter = "CatmullRom"
+  quality = 75
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = "ImageDescription"
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.112.0"
+
+[menu]
+[[menu.footer]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/sahana-nekkanti-b162b7258"
+  weight = 3
