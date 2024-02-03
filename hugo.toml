@@ -7,7 +7,7 @@ disableKinds = ["taxonomy", "term"]
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 timeZone = "Asia/Kolkata"
-timeout = 10m
+timeout = 100000
 
 
 [params]
