@@ -7,4 +7,6 @@ menu:
     weight: 1
 ---
 
-I am here for information on MBA courses and the jobs it offers. Information on the good colleges and specialisation. Please help me out if you can.
+Hey there! I'm Sahana, a recent graduate from Christ University in Bangalore with a Bachelor of Science (BS) degree.
+
+Photography isn't just a hobby — it's my burning passion! My camera is always with me because you never know when the perfect moment will strike 📸

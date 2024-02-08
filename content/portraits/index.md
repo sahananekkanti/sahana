@@ -1,6 +1,6 @@
 ---
 title: Portraits
-description: Humans and fun.
+description: Humans or Homosapiens.
 featured_image: _MG_1522.JPG
 weight: 3
 sort_by: Name # Exif.Date
