@@ -1,4 +1,4 @@
-baseURL = 'https://sahananekkanti.github.io/sahana'
+baseURL = 'https://sahananekkanti.me'
 languageCode = 'en-us'
 title = "Sahana's Gallery"
 theme = "gallery"
